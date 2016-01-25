@@ -28,6 +28,11 @@ begin
     exit 1
   end
 end
+
+unless options[:verbose]
+  Hiera.logger = "noop"
+end
+
 ########################################
 
 myroles = Array.new 

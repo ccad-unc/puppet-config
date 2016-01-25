@@ -1,0 +1,12 @@
+# Classe name : time
+# String
+time_commons_server_options: 'restrict -4 10.89.0.0 mask 255.255.0.0 notrap nomodify'
+# String
+time_commons_server_master: ntp.unc.edu.ar
+# Array
+time_commons_server_slaves:
+        -
+        -
+# Hash
+time_commons_conf_options:
+    NTPD_OPTS: '-4 -g'

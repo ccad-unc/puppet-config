@@ -1,0 +1,9 @@
+# Classe name: time
+# Array
+time_commons_packages: 
+        - ntp
+        - ntpdate
+# String
+time_commons_maincfg: /etc/ntp.conf
+# String
+time_commons_maincfg_template: time/ntp_conf.erb

@@ -1,0 +1,5 @@
+# Classe name: time
+# String
+time_commons_service: ntp
+# String
+time_commons_cfgfile: /etc/default/ntp

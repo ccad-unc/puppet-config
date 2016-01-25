@@ -1,0 +1,7 @@
+# master_network = (array) => master network line
+# master network line =  
+master_network:
+ - 40:F2:E9:AF:E8:34,40:F2:E9:AF:E8:30;enp6s0f0,ib0;immcriscg030,criscg030,ibcriscg030;10.89.76.230,10.89.92.230,10.89.127.230;255.255.248.0,255.255.255.0;0@0@0,1@1@1;0@1@0,1@2@1;0@0,1@1,2@2
+     
+     
+

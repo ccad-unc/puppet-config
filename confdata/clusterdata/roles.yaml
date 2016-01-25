@@ -1,0 +1,4 @@
+# roles = (hash)  role name => hostname
+roles:
+    ntpprimary: cn030 
+    ntpsecondary: cn[050-052] 

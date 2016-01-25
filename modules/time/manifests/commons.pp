@@ -15,7 +15,7 @@ class time::commons {
   service { $srv :
     ensure     => 'running',
     require    => Package[$pkgs],
-    subscribe  => [File[$cfgfile]
+    subscribe  => File[$cfgfile],
   }
 
   # Main config file

@@ -1,4 +1,4 @@
-# Classe name : time
+# Class name : time
 # String
 time_commons_server_options: 'restrict -4 10.89.0.0 mask 255.255.0.0 notrap nomodify'
 # String

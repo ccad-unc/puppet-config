@@ -1,0 +1,8 @@
+Upstream-Contact: Antonio J. Russo <antonio.russo@unc.edu.ar>
+Source: https://github.com/ccad-unc/hpc-puppet-config
+
+Files: *
+Copyright: 
+    2014-2016 EDF S.A.  <http://www.edf.fr>
+    2016 CONICET <http://www.conicet.gov.ar> 
+License: GPL-3+
